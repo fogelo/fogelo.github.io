@@ -1,0 +1,139 @@
+* {
+		box-sizing: border-box;
+}
+
+body {
+		font-family: Tahoma;
+		color: #333333;
+}
+
+.section {
+		padding: 30px 10%;
+}
+
+.header {
+		text-align: center; 
+		font-size: 24px;
+		line-height: 1.5;
+		margin-top: 80px;		
+}
+
+.header span { 
+		display: block;
+		font-weight: 300;
+}
+
+.header strong {
+		font-weight: 900;
+		text-transform: uppercase;
+}
+
+.main {
+		text-align: center;
+		margin-top: 80px;
+}
+
+.video, .form  {
+		display: inline-block;
+		vertical-align: top;
+}
+
+.form {
+		margin-left: 30px; 
+		text-align: center;
+		border: 5px solid blue;
+		padding: 20px;
+}
+
+.form input {
+		display: block;
+		margin-top: 25px;
+		width: 300px;
+		padding: 17px;
+		border: 1px solid black;
+}
+
+.form-header {
+		margin-bottom: 30px;
+		text-align: center;
+		font-size: 20px;
+		font-weight: 900;
+}
+
+.btn {
+		font-size: 18px;
+		font-weight: 900;
+		color: white;
+		background-color: blue;
+		width: 300px;
+		height: 50px;
+		display: block;
+		margin: 11px auto;
+}
+
+.col {
+			display: inline-block;
+			text-align: center;
+			margin: 10px 50px;
+}
+
+.feature-header {
+		text-align: center;
+		text-transform: uppercase;
+		font-weight: 900;
+		font-size: 24px; 
+}
+
+.feature {
+		text-align: center;
+		margin: 60px auto;
+}
+
+.clients {
+		text-align: center;
+		text-transform: uppercase;
+		font-weight: 900;
+		font-size: 24px;
+		margin-top: 50px;
+		margin-bottom: 70px;
+}
+
+.photo {
+		display: inline-block;
+		text-align: center;
+		margin: 20px 15px;
+}
+
+.photo-block {
+		text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
