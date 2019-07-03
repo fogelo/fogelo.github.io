@@ -1,0 +1,21 @@
+.head {
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+
+.col-lg-2, .col-md-4, .col-sm-6, .col-xs-12
+{
+	text-align: center;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: space-between;
+
+}
+
+.advantage {
+position: static;
+	margin-top: 25px;
+}
