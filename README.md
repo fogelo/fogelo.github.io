@@ -10,4 +10,4 @@
 
 [Практика часть 3](https://fogelo.github.io/ProjectPractice3/src/) - Эффекты при наведении и адаптив первого экрана
 
-[Практика часть 4](https://fogelo.github.io/ProjectPractice1/src/) - Верстка блока с преимуществами. Слайдер.
+[Практика часть 4](https://fogelo.github.io/ProjectPractice4/src/) - Верстка блока с преимуществами. Слайдер.
