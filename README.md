@@ -15,3 +15,7 @@
 [Практика часть 5](https://fogelo.github.io/ProjectPractice5/src/) - Верстка всплывающих окон на сайте
 
 [Практика часть 6](https://fogelo.github.io/ProjectPractice6/src/) - Верстка блока с ценами
+
+[Практика часть 7](https://fogelo.github.io/ProjectPractice7/src/) - Верстка блока с отзывами
+
+
